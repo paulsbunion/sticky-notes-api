@@ -1,4 +1,4 @@
-package com.defran.stickynotesapi;
+package com.defrain.stickynotesapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

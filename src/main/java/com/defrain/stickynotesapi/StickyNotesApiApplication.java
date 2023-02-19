@@ -1,4 +1,4 @@
-package com.defran.stickynotesapi;
+package com.defrain.stickynotesapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
